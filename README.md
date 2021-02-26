@@ -16,11 +16,13 @@ Provides resources for developers using MOBtexting API platforms https://portal.
 
 	4) Authenticate Both CompanyHub + MOBtexting.
 
-	5) Pick one of the apps as a trigger, which will kick off your automation like `new contact` or `new record`  or `new task` ext..
+	5) Pick one of the apps as a trigger, which will kick off your automation like `new contact` or
+	   `new record`  or `new task` ext..
 	
 	6) Choose a resulting action from the MOBtexting app like `Send SMS` action.
 
-	7) Select the data you want to send from one app to the other like select `phone number` first and second `name` or `email` datas for template message.
+	7) Select the data you want to send from one app to the other like select `phone number` first
+	   and second `name` or `email` datas for template message.
 
 	8) Finally `Trun On` your Zap App.
 
