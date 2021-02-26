@@ -11,11 +11,11 @@ Provides resources for developers using MOBtexting API platforms https://portal.
 
 # How CompanyHub + MOBtexting Integrations Work by Zapier:
 	
-	1) Go to Zapier.com and Login into Zapier
+	1) Go to Zapier.com and Login into Zapier.
 
-	2) On the Dashboard Click on `Make A Zap`
+	2) On the Dashboard Click on `Make A Zap`.
 
-	3) Create a Zap with CompanyHub + MOBtexting 
+	3) Create a Zap with CompanyHub + MOBtexting. 
 
 	4) Authenticate Both CompanyHub + MOBtexting.
 
