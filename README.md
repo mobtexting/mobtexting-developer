@@ -1,6 +1,3 @@
-# mobtexting-developer
-Provides resources for developers using MOBtexting API platforms https://portal.mobtexting.com/docs
-
 # CompanyHub + MOBtexting Trigger SMS
 
 # Description:
