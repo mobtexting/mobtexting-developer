@@ -20,7 +20,7 @@ Provides resources for developers using MOBtexting API platforms https://portal.
 	4) Authenticate Both CompanyHub + MOBtexting.
 
 	5) Pick one of the apps as a trigger, which will kick off your automation like `new contact` or
-	   `new record`  or `new task` ext..
+	   `new record`  or `new task` etc.
 	
 	6) Choose a resulting action from the MOBtexting app like `Send SMS` action.
 
