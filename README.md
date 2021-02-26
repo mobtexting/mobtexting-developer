@@ -6,6 +6,9 @@ Provides resources for developers using MOBtexting API platforms https://portal.
 # Description:
    It's easy to connect CompanyHub + MOBtexting and requires absolutely zero coding experience—the only limit is your own imagination.
 
+# Functionality Use:
+  Whenever create `new contact` or `new record` etc. `SMS` message will trigger automatically. 
+
 # How CompanyHub + MOBtexting Integrations Work by Zapier:
 	
 	1) Go to Zapier.com and Login into Zapier
