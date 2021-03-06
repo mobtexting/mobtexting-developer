@@ -8,4 +8,7 @@
   - [IP Whitelisting](/docs/{{version}}/whitelisting)
   - [Advanced Options](/docs/{{version}}/options)
   - [Voice Flow](/docs/{{version}}/voice/)
+  - [DLT Process](/docs/{{version}}/dlt/)
+
+
 
